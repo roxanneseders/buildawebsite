@@ -1,0 +1,27 @@
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+header {
+	/* Layout declrations */
+	padding: 96px 0;
+	/* Appearance declrations */
+	background-image: url('https://images.pexels.com/photos/460635/pexels-photo-460635.jpeg?w=940&h=650&dpr=2&auto=compress&cs=tinysrgb');
+	background-repeat: no-repeat;
+	background-size: cover;
+  border-top: solid 16px #FA1B96;
+}
+
+h1.greeting {
+  /* Layout declarations */
+  text-align: center;
+  /* Appearance declarations */
+  color: pink;
+	font-family: "Open Sans", "Helvetica Neue", sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 96px;
+	letter-spacing: 0px;
+	text-shadow: 0px 0px 20px #9C205A;
+}
+
